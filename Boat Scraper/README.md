@@ -1,0 +1,1 @@
+Each section of this script would be run separately.  It requires that the boat_scraper.py script is running in another terminal window.  I will send that code next.  I put it in python file and ran it in the terminal using “python boat_scraper.py
