@@ -1,0 +1,6 @@
+[ 
+    {
+        "boat":[{"index":0,"boat_id":4311,"Country":"Sweden","boat_type":"Power","year":2007,"Boat_Make":"Albin Marine","model":"CAPE COD 26","model_type":"INBD","length_overall":26,"yield_length":null,"beam":8.5,"draft":null,"height":null,"hull":"FG","engine":1,"hp":315.0,"weight":5000,"fuel_type":"Diesel","boat_image":null,"active":null},{"index":1,"boat_id":4312,"Country":"Sweden","boat_type":"Power","year":2007,"Boat_Make":"Albin Marine","model":"TOURNAMENT EXPRESS 26","model_type":"STERN","length_overall":26,"yield_length":null,"beam":8.5,"draft":null,"height":null,"hull":"FG","engine":1,"hp":210.0,"weight":6000,"fuel_type":"Diesel","boat_image":null,"active":null}]
+    
+    }
+]
