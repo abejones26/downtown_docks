@@ -1,5 +1,0 @@
-provider,dockage,ID,status,service,user_email,date,slot,slot_end,order_id,user_id,phone,comments,umeta_id,meta_key,meta_value
-City Winery at the Chicago Riverwalk,210,3,pending,Dockage 45' to 54' 2hr,abrahammrjones@gmail.com,2020-06-11 00:00:00,2020-06-11 14:00:00,2020-06-11 16:00:00,,10.0,17734206926,,194,length,75
-City Winery at the Chicago Riverwalk,210,4,pending,Dockage 45' to 54' 1hr,abrahammrjones@gmail.com,2020-06-11 00:00:00,2020-06-11 13:00:00,2020-06-11 14:00:00,,10.0,17734206926,,194,length,75
-City Winery at the Chicago Riverwalk,210,5,pending,Dockage 125' and more 1hr,abrahammrjones@gmail.com,2020-06-11 00:00:00,2020-06-11 19:00:00,2020-06-11 20:00:00,,10.0,17734206926,,194,length,75
-Marina City,55,2,pending,Dockage 45' to 54' 3hr,abrahammrjones@gmail.com,2020-06-11 00:00:00,2020-06-11 13:00:00,2020-06-11 16:00:00,,10.0,17734206926,Book me up,194,length,75
